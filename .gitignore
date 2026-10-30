@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+known_faces/
+backup_photos/
+attendance.csv
+attendance_backup.csv
+practice/
+.vscode/
